@@ -1,2 +1,2 @@
-# first_project
-THESE COMMITS ARE FROM MY PRACTICE ONLY NOT FROM PROFESSIONAL SIDE.
+practice project from Sir hassan
+sir hassan share this project
